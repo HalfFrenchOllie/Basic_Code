@@ -25,3 +25,27 @@ Else.py
 Elif.py 
 
 in this file i simply explore some very simple boolean loogic using a couple standard variables 
+
+(3) Arrays
+inside this file you will find the following python programs (not in order):
+-1 Dictionaries{}
+inside this file you will find the following python programs (not in order):
+
+-2 Lists[]
+inside this file you will find the following python programs (not in order):
+List_Print.py
+List_Length.py
+List_Identify.py
+Create_List.py
+
+-3 sets{]
+inside this file you will find the following python programs (not in order):
+
+-4 tuples()
+inside this file you will find the following python programs (not in order):
+Tuple_Print.py
+Tuple_Length.py
+Tuple_One.py
+Create_Tuple.py
+
+Inside this file i go through the 4 Array types and have to create, check the length and identify them
