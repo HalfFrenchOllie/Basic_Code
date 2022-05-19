@@ -49,3 +49,8 @@ Tuple_One.py
 Create_Tuple.py
 
 Inside this file i go through the 4 Array types and have to create, check the length and identify them
+
+
+Future Commits:
+
+Loops
